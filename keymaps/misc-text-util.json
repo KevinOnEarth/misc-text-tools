@@ -1,0 +1,10 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "misc-text-tools:sortSelectionAsc",
+    "alt-shift-o": "misc-text-tools:sortSelectionDesc",
+    "ctrl-alt-l": "misc-text-tools:toggleCsvList",
+    "ctrl-alt-'": "misc-text-tools:singleQuoteListElements",
+    "ctrl-alt-shift-'": "misc-text-tools:doubleQuoteListElements",
+    "ctrl-alt-/": "misc-text-tools:commentWrap"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle misc-text-util",
+        "command": "misc-text-util:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Misc Text Tools",
+          "submenu": [
+            {
+              "label": "Toggle Comma/Line Separation",
+              "command": "misc-text-tools:toggleCsvList"
+            },
+            {
+              "label": "Sort Selection Ascending",
+              "command": "misc-text-tools:sortSelectionAsc"
+            },
+            {
+              "label": "Sort Selection Descending",
+              "command": "misc-text-tools:sortSelectionDesc"
+            },
+            {
+              "label": "Single Quote List Elements",
+              "command": "misc-text-tools:singleQuoteListElements"
+            },
+            {
+              "label": "Double Quote List Elements",
+              "command": "misc-text-tools:doubleQuoteListElements"
+            },
+            {
+              "label": "Block Quote Selection",
+              "command": "misc-text-tools::commentWrap"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
