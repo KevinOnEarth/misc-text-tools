@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": ["misc-text-tools:toggleCsvList","misc-text-tools:sortSelectionAsc", "misc-text-tools:sortSelectionDesc", "misc-text-tools:commentWrap", "misc-text-tools:singleQuoteListElements", "misc-text-tools:doubleQuoteListElements"]
   },
-  "repository": "https://github.com/atom/misc-text-util",
+  "repository": "https://github.com/KevinOnEarth/misc-text-util",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
