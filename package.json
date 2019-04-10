@@ -1,7 +1,7 @@
 {
   "name": "misc-text-util",
   "main": "./lib/misc-text-util",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Additional text manipulation functions such as: sorting, selected text from separation from line to comma or comma to line, block commenting a selection (/* ... */) and wrapping selection in double or single quotes.",
   "keywords": [
     "text-manipulation",
