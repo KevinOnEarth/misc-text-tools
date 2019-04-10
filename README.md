@@ -1,5 +1,7 @@
 # misc-text-util package
 
-A short description of your package.
-
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Miscellaneous Text Util provides some text manipulation functions.
+* Convert line separated selected text to a comma separated list (and back)
+* Wrap lines in single or double quotes
+* Wrap selected text with a block comment (/\* ... \*/)
+* Sort selected text either ascending or descending
