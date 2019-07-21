@@ -7,18 +7,21 @@
     "text-manipulation",
     "sort-text",
     "quote-wrapping",
-    "comment-block"
+    "comment-block",
+    "text-wrapping"
   ],
   "activationCommands": {
     "atom-workspace": [
       "misc-text-tools:toggleCsvList",
       "misc-text-tools:sortSelectionAsc",
       "misc-text-tools:sortSelectionDesc",
-      "misc-text-tools:commentWrap",
       "misc-text-tools:singleQuoteListElements",
       "misc-text-tools:doubleQuoteListElements",
+      "misc-text-tools:commentWrap",
       "misc-text-tools:parenthesisWrap",
-      "misc-text-tools:curlybraceWrap"
+      "misc-text-tools:curlybraceWrap",
+      "misc-text-tools:blockSingleQuoteWrap",
+      "misc-text-tools:blockDoubleQuoteWrap"
     ]
   },
   "repository": "https://github.com/KevinOnEarth/misc-text-util",

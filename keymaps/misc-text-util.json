@@ -7,6 +7,6 @@
     "ctrl-alt-shift-'": "misc-text-tools:doubleQuoteListElements",
     "ctrl-alt-/": "misc-text-tools:commentWrap",
     "ctrl-alt-p": "misc-text-tools:parenthesisWrap",
-    "ctrl-alt-c": "misc-text-tools:curlybraceWrap"
+    "ctrl-alt-c": "misc-text-tools:curlybraceWrap",
   }
 }
