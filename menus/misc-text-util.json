@@ -35,16 +35,24 @@
               "command": "misc-text-tools:doubleQuoteListElements"
             },
             {
-              "label": "Block Quote Selection",
-              "command": "misc-text-tools::commentWrap"
+              "label": "Block Comment Selection",
+              "command": "misc-text-tools:commentWrap"
             },
             {
               "label": "Wrap Text In Parens",
-              "command": "misc-text-tools::parenthesisWrap"
+              "command": "misc-text-tools:parenthesisWrap"
             },
             {
               "label": "Wrap Text In Braces",
-              "command": "misc-text-tools::curlybraceWrap"
+              "command": "misc-text-tools:curlybraceWrap"
+            },
+            {
+              "label": "Wrap Text in Single Quotes",
+              "command": "misc-text-tools:blockSingleQuoteWrap"
+            },
+            {
+              "label": "Wrap Text in Double Quotes",
+              "command": "misc-text-tools:blockDoubleQuoteWrap"
             }
           ]
         }
