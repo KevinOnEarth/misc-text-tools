@@ -37,6 +37,14 @@
             {
               "label": "Block Quote Selection",
               "command": "misc-text-tools::commentWrap"
+            },
+            {
+              "label": "Wrap Text In Parens",
+              "command": "misc-text-tools::parenthesisWrap"
+            },
+            {
+              "label": "Wrap Text In Braces",
+              "command": "misc-text-tools::curlybraceWrap"
             }
           ]
         }

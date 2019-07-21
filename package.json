@@ -16,7 +16,9 @@
       "misc-text-tools:sortSelectionDesc",
       "misc-text-tools:commentWrap",
       "misc-text-tools:singleQuoteListElements",
-      "misc-text-tools:doubleQuoteListElements"
+      "misc-text-tools:doubleQuoteListElements",
+      "misc-text-tools:parenthesisWrap",
+      "misc-text-tools:curlybraceWrap"
     ]
   },
   "repository": "https://github.com/KevinOnEarth/misc-text-util",

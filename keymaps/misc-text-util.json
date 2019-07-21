@@ -5,6 +5,8 @@
     "ctrl-alt-l": "misc-text-tools:toggleCsvList",
     "ctrl-alt-'": "misc-text-tools:singleQuoteListElements",
     "ctrl-alt-shift-'": "misc-text-tools:doubleQuoteListElements",
-    "ctrl-alt-/": "misc-text-tools:commentWrap"
+    "ctrl-alt-/": "misc-text-tools:commentWrap",
+    "ctrl-alt-shift-P": "misc-text-tools:parenthesisWrap",
+    "ctrl-alt-shift-C": "misc-text-tools:curlybraceWrap"
   }
 }
